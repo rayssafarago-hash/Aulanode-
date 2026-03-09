@@ -1,0 +1,6 @@
+a = ('a')
+b = ('ab',)
+c = ('abc')
+print(type(a))
+print(type(b))
+print(type(c))
